@@ -4,6 +4,12 @@ This repository contains all my academic degrees, certifications, and official d
 
 ## 📚 Contents
 
+### 🎓 Matriculation
+- Degree Certificate
+
+### 🎓 Intermediate
+- Degree Certificate
+
 ### 🎓 Graduation
 - Degree Certificate
 - Semester-wise Mark Sheets
