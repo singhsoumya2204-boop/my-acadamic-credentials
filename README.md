@@ -1,2 +1,24 @@
-# my-acadamic-credentials
-All my degrees, certificates and academic documents.
+# 🎓 Academic Credentials – Soumya Singh
+
+This repository contains all my academic degrees, certifications, and official documents in one place.
+
+## 📚 Contents
+
+### 🎓 Graduation
+- Degree Certificate
+- Semester-wise Mark Sheets
+
+### 🎓 Post Graduation diploma
+- CDAC PG-DAC Certificate
+- CDAC Marksheet
+
+### 📜 Certifications
+- Java
+- Python
+- Web Development
+
+### 📄 Resume
+- Latest Resume (PDF)
+
+## 🔒 Note
+All documents are uploaded for verification and academic reference purposes only.
